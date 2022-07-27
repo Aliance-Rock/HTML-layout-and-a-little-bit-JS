@@ -301,6 +301,7 @@ left: -7px;
 position: fixed;
 top: 0;
 left: 32px;
+--webkit-left: -2px;
 z-index: 9999;
 
 }
