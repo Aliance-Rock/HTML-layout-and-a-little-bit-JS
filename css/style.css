@@ -300,7 +300,7 @@ left: -7px;
 .sticky {
 position: fixed;
 top: 0;
-left: -2px;
+left: 2rem;
 z-index: 9999;
 
 }
